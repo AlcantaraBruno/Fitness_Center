@@ -1,5 +1,3 @@
-# Fitness_Center
-<br />
 <p align="center">
     <img src="https://user-images.githubusercontent.com/32379195/91647705-277e2980-ea34-11ea-89a9-95e96149432a.png" alt="Logo">
 </p>
