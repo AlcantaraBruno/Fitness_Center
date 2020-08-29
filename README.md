@@ -1,5 +1,5 @@
 # Fitness_Center
-![photo_2020-08-29_19-18-14](https://user-images.githubusercontent.com/32379195/91647513-edac2380-ea31-11ea-9d27-490e189c094a.jpg)
+![Design sem nome (1)](https://user-images.githubusercontent.com/32379195/91647705-277e2980-ea34-11ea-89a9-95e96149432a.png)
 
 Projetinho de um chatbot para o aplicativo de mensagem Telegram para fins de estudo na tecnologia NodeJS.
 
@@ -14,7 +14,7 @@ link: https://www.npmjs.com/package/dialogflow
 * Youtube Node Api
 link: https://www.npmjs.com/package/youtube-node
 
-#Preview
+# Preview
 
 ![FC-gif](https://user-images.githubusercontent.com/32379195/91647675-ad4da500-ea33-11ea-8286-6642401001f0.gif)
 
