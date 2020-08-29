@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitness-center-bot-syng",
+  "private_key_id": "be30ddec573c4ba5d107f4d56641512136944398",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfxop+rja4nbCD\ncYs4TDuONkL+X10sU7aYGxH09nd2twiJHhLP5ITCmwa6so44mcPqbnU3l7sISaD1\njHCfS0Efe5qpehO4h/FCBpnanl5VN9/j/DFscpw6KVh8AFX8QxUaqHNxTZZ2ddw3\nwzmvuHHmUDO9yDqIu3w/VwQEkU05O9EQPC2ZfSqZ0OHTdNeX/rbEOLmzuDrZS/Vt\n7Cl0L+HAZ3vRmwAqbPEC3PLoDV7xeTvvyRR1pReq/MXqKj4BPT/6O6s9kVN6PP1Q\nnSb1+6YMVQC81NsmYVhiyxaSmhtVJaQw1yCZ9pF6jfV+I+Hq97nfdWQOggDKfGpQ\niMT02OxXAgMBAAECggEAE992h3Y00Tav51F+nwSAXdpq78e9x48sBXRMgfsL9eSj\nN6bZcSk7yBbPOfaOkQSzJRwTEVSai1fZIOGUeoO6OGe/33eTL18dR3iZt2L+Wbwm\n6W0LWrFQtD1DR70k9MkFPXkZTsz3O4nCV9889BnNdPehz+exPCORuzEgC09lWwpe\nuPx2pH2m+0YI2s4osXiCnKhPav/G8FgThBpmcn39STDbgDDUdUHPlDIcTAgA6XeB\njH4OkdL+qHBVvU1b0ev1MGqRfBKVCCG0mKw6c3dDyOxVrMpNFv457o4n8s2KMwRu\nY1f9RG3DGxg9skhii7oZE9+AZVDO8IsB89P8Zsu9PQKBgQDXGxlpaPzQgmcGGtcb\ndn7Is2DAVPP/TCzXdNn+BdIAtRQQzw88O7XSgB41urrUib1CcNMvDzuGun11dpFi\nye/S9NWuA88dYSrpIkkpY9P/ibPlPgi+bck2we6oLIvz9bGHmqg0M9ys4KOwgshT\n/WQoEoDd9fLRfp+fGGGgBoDd1QKBgQC+JpffX0UvbgNU707YTBw7OSedkBkbd4uw\ngRb9IJ/+fyjfocKgLMN/fW5/rltyIT9ru429FFUrRFl/KZ5xTwU4wEBqduMK0JRv\nVqx0iy0XY/1fe9iRcfg31rfkH2DL80osQ9OsBUcdjyXeFO9GQfk8CKNtTqYCI+aj\nt3jGaHV7ewKBgDqxQDvM076o9idqR2tM58cneqzAAVuVk16umZSATg63WeREOyn6\nOOBY6OVMMBIyCxwH4PekNl/KntTgJ0dHRlLPT0aN74NasfSu0Duk64F8N0PDq2sa\nVZ7FR7NHhGBql6gigObNh9b77G4LIVIZf6yXb+YgZ8LVxAQLCQg6/gqJAoGBALP6\ndX+QfjyxZWfsBnXGPGZ156BENu9/jHFpDihSy/0nwLlDM6NGG1i9kWw6zQVOoOfI\noxTXfPGyBP/OldBr2eZoWdArbSTcXdKweBTrcqeUFctdvpOUCzxW+MFsTcNdKNSS\n8nP8nt5EkrQMnpmiclQ3XPBmI80cy/4j96XcU26nAoGBAIOqopuhH1zEvvrYZafo\nhqo1z3bF6m77CTf7SdZya0yi1/+HE+ABJxok8Jt0w5nH/8WTxeRRH1fYZAJ6MnK8\njHhQPgMgEZT9xQVOG+P8YrVydwKBByBWw4hQJ0Iys2puffCzrTiOCufl6fm4wWzi\nFBqMK/PFTFkIOQaqi9hFAQGa\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-gobigr@fitness-center-bot-syng.iam.gserviceaccount.com",
+  "client_id": "108275799733683501679",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-gobigr%40fitness-center-bot-syng.iam.gserviceaccount.com"
+}
