@@ -1,5 +1,9 @@
 # Fitness_Center
-![Design sem nome (1)](https://user-images.githubusercontent.com/32379195/91647705-277e2980-ea34-11ea-89a9-95e96149432a.png)
+<br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/32379195/91647705-277e2980-ea34-11ea-89a9-95e96149432a.png" alt="Logo">
+</p>
+
 
 Projetinho de um chatbot para o aplicativo de mensagem Telegram para fins de estudo na tecnologia NodeJS.
 
