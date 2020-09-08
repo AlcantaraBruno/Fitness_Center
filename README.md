@@ -18,5 +18,5 @@ link: https://www.npmjs.com/package/youtube-node
 
 ## Preview
 
-![FC-gif](https://user-images.githubusercontent.com/32379195/91647675-ad4da500-ea33-11ea-8286-6642401001f0.gif)
+![Fitness_Center_GIF](https://user-images.githubusercontent.com/32379195/92533812-a3812a00-f209-11ea-8bb2-023da2cb4732.gif)
 
